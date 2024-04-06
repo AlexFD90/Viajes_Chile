@@ -11,3 +11,7 @@ h1{
 .bgcss{
     background-color: black;
 }
+
+.imgcard{
+    height: 150px;
+}
